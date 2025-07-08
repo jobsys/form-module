@@ -1,10 +1,12 @@
 {
-    "name": "nwidart/form",
+    "name": "jobsys/form-module",
     "description": "",
+    "type": "laravel-module",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "sinceow",
+            "email": "sinceow@163.com"
         }
     ],
     "extra": {
